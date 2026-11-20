@@ -1,6 +1,6 @@
 ## I make long-lived Angular applications fast, maintainable and upgradable again.
 
-I do this work in client projects. Since 2016 I have worked in Angular projects for companies such as Daimler, Carl Zeiss, Deutsche Bahn, Convanit and Siemens AG. I work on migrations from Module Federation to Native Federation, on zoneless change detection and Signals, and on the monorepo and upgrade structure around them. Based in Dresden.
+I do this work in client projects and have worked with Angular since the beta in 2016. My focus is on migrations from Module Federation to Native Federation, on zoneless change detection and Signals, and on the monorepo and upgrade structure around them. Based in Dresden.
 
 ### Client work
 
@@ -9,7 +9,9 @@ The code from these projects is not public, so this profile can only show the pa
 - **Siemens AG:** planned and led the migration from Module Federation to Native Federation for about 15 teams. First Contentful Paint in the build comparison: 6.8 s → 1.3 s. [Case study](https://lutzleonhardt.de/case-studies/native-federation-migration.html)
 - **An insurer:** got live reload across two repositories running in three days on site with the team. [Details](https://lutzleonhardt.de/#case-monorepos)
 
-More [case studies](https://lutzleonhardt.de/#case-studies) are on my website (in German). People I worked with describe the collaboration in their [recommendations on LinkedIn](https://www.linkedin.com/in/lutz-leonhardt-754880358/details/recommendations/).
+Other Angular projects since 2016: Daimler Vans, Carl Zeiss, Deutsche Bahn, Convanit and Robotron, among others.
+
+More [case studies](https://lutzleonhardt.de/#case-studies) are on my website (in German). People I worked with in these projects describe the collaboration in their [recommendations on LinkedIn](https://www.linkedin.com/in/lutz-leonhardt-754880358/details/recommendations/).
 
 ### Native Federation
 
